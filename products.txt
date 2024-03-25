@@ -1,0 +1,1 @@
+Product ID: 001, Product Name: phone, Available Items: 12, Price: 120.0, Brand: samsung, Warranty Period: 12
