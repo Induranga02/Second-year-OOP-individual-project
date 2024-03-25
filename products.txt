@@ -1,1 +1,0 @@
-Product ID: 001, Product Name: mn, Available Items: 14, Price: 100.0, Brand: vd, Warranty Period: 12
